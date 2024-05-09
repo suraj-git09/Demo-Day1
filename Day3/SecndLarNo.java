@@ -28,7 +28,7 @@ public class SecndLarNo {
             }
         }
 
-        System.out.println("Entered Elements are");
+        System.out.println("Sorted Elements are");
         for (int i = 0; i < n; i++) {
             System.out.print(arr[i] + " ");
         }
