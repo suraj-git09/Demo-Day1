@@ -83,12 +83,19 @@ The StockBroker project is a simple command-line application that allows users t
 StockBroker/
 │
 ├── Main.java                # Main application file
+
 ├── README.md                # Project README file
+
 ├── database.sql             # Database setup script
+
 ├── src/
+
 │   ├── db/                  # Database connection and utilities
+
 │   ├── models/              # Data models (User, Stock, Order, ProfitLoss)
+
 │   ├── services/            # Business logic and services
+
 │   └── utils/               # Utility classes
 
 
